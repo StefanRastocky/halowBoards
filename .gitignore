@@ -1,0 +1,21 @@
+# KiCad lock files
+*.lck
+~*.lck
+
+# KiCad local
+*.kicad_prl
+.history
+.kicad_history
+
+# Autosave / temp
+*.autosave
+*.tmp
+*.bak
+
+# KiCad backup archives
+usbaCarrierMM8108/usbCarrierMM8108-backups/
+*-backups/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,15 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_0402_1005Metric_Pad0.74x0.62mm_HandSolder";1;"2u2";;;
+2;"C2, C3, C4, C5";"C_0402_1005Metric_Pad0.74x0.62mm_HandSolder";4;"10u";;;
+3;"C6, C7";"C_0402_1005Metric_Pad0.74x0.62mm_HandSolder";2;"1u";;;
+4;"D1, D2, D3, D4";"LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder";4;"LED";;;
+5;"FB1";"L_0402_1005Metric_Pad0.77x0.64mm_HandSolder";1;"1000 Ohm@100MHz";;;
+6;"IC1";"MM8108MF15457";1;"MM8108-MF15457";;;
+7;"J1";"USB_A_CNCTech_1001-011-01101_Horizontal";1;"USB_A";;;
+8;"J2";"SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount";1;"Conn_Coaxial_Small";;;
+9;"J3";"PinHeader_2x03_P1.27mm_Vertical";1;"Conn_02x03_Odd_Even";;;
+10;"J4";"PinHeader_1x08_P1.27mm_Vertical";1;"Conn_01x08_Pin";;;
+11;"R1";"R_0201_0603Metric_Pad0.64x0.40mm_HandSolder";1;"220k";;;
+12;"R5";"R_0201_0603Metric_Pad0.64x0.40mm_HandSolder";1;"470R";;;
+13;"R6, R7, R8";"R_0201_0603Metric_Pad0.64x0.40mm_HandSolder";3;"560R";;;
+14;"U2";"WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias";1;"TLV75533PDRV";;;
