@@ -23,6 +23,12 @@ Focus: cost reduction vs official evaluation hardware, wireless networking exper
 
 USB-A form-factor carrier board for MM8108 module.
 
+## USB-A Carrier (revC)
+
+| 3D View | Layout |
+|--------|--------|
+| ![](media/usbaCarrier_revC_3dTopView.png) | ![](media/usbaCarrier_revC_layoutTop.png) |
+
 ### Features
 - USB-A plug carrier interface
 - On-board power regulation (derated LDO design)
