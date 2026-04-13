@@ -5,7 +5,9 @@ USB-A carrier board is the current reference design, with additional form factor
 
 Focus: cost reduction vs official evaluation hardware, wireless networking experimentation, Reticulum mesh comms, IoT/embedded.
 
----
+| 3D View | Layout |
+|--------|--------|
+| ![](media/usbaCarrier_revC_3dTopView.png) | ![](media/usbaCarrier_revC_layoutTop.png) |
 
 ## Objectives
 
@@ -25,10 +27,6 @@ USB-A form-factor carrier board for MM8108 module.
 
 ## USB-A Carrier (revC)
 
-| 3D View | Layout |
-|--------|--------|
-| ![](media/usbaCarrier_revC_3dTopView.png) | ![](media/usbaCarrier_revC_layoutTop.png) |
-
 ### Features
 - USB-A plug carrier interface
 - On-board power regulation (derated LDO design)
@@ -41,8 +39,6 @@ USB-A form-factor carrier board for MM8108 module.
 - JTAG functionality is **not guaranteed and not officially supported** by vendor
 - Routing included for flexibility, reverse engineering, and bring-up scenarios
 - Intended for experimental firmware and hardware exploration use only
-
----
 
 ## Revision History (USB-A Carrier)
 
@@ -70,8 +66,6 @@ Planned additional carrier variants:
 - `manuf/` – fabrication outputs per revision (GERBER, BOM, PnP)
 - future form factors added as separate KiCad projects
 
----
-
 ## Manufacturing Targets
 
 - 2-layer FR4, 1.6mm
@@ -95,8 +89,6 @@ Planned additional carrier variants:
 
 Active hardware development. USB-A carrier is the current reference implementation.
 
----
-
 ## License
 
 This project is released under the MIT License.
@@ -104,8 +96,6 @@ This project is released under the MIT License.
 Hardware designs may be used, modified, and manufactured for personal, educational, and commercial purposes.
 
 No warranty is provided.
-
----
 
 ## Disclaimer
 
@@ -115,8 +105,6 @@ This project is an independent hardware design and is not affiliated with Morse 
 - JTAG functionality is not guaranteed and not officially supported
 - Some signals are exposed for firmware experimentation and hardware bring-up
 - Use at your own risk
-
----
 
 ## Hardware Intent Summary
 
